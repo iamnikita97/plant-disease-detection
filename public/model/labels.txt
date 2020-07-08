@@ -1,0 +1,26 @@
+Bacterial_spot
+Black_rot
+Cercospora_leaf_spot Gray_leaf_spot
+Common_rust
+Early_blight
+
+Esca_(Black_Measles)
+Haunglongbing_(Citrus_greening)
+
+
+healthy
+Late_blight
+Leaf_blight_(Isariopsis_Leaf_Spot)
+Leaf_Mold
+Leaf_scorch
+
+mosaic_virus
+Northern_Leaf_Blight
+Powdery_mildew
+rust
+scab
+Septoria_leaf_spot
+Spider_mites Two-spotted_spider_mite
+Squash___Powdery_mildew
+Target_Spot
+Yellow_Leaf_Curl_Virus

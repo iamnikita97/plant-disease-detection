@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/plant-diease-detection/static/css/main.468af28d.chunk.css",
+    "main.js": "/plant-diease-detection/static/js/main.d8124135.chunk.js",
+    "main.js.map": "/plant-diease-detection/static/js/main.d8124135.chunk.js.map",
+    "runtime-main.js": "/plant-diease-detection/static/js/runtime-main.b4fd384a.js",
+    "runtime-main.js.map": "/plant-diease-detection/static/js/runtime-main.b4fd384a.js.map",
+    "static/css/2.f87e9f44.chunk.css": "/plant-diease-detection/static/css/2.f87e9f44.chunk.css",
+    "static/js/2.2524f739.chunk.js": "/plant-diease-detection/static/js/2.2524f739.chunk.js",
+    "static/js/2.2524f739.chunk.js.map": "/plant-diease-detection/static/js/2.2524f739.chunk.js.map",
+    "index.html": "/plant-diease-detection/index.html",
+    "precache-manifest.7dc39e6475b0d0b5516a9e03272e6ad2.js": "/plant-diease-detection/precache-manifest.7dc39e6475b0d0b5516a9e03272e6ad2.js",
+    "service-worker.js": "/plant-diease-detection/service-worker.js",
+    "static/css/2.f87e9f44.chunk.css.map": "/plant-diease-detection/static/css/2.f87e9f44.chunk.css.map",
+    "static/css/main.468af28d.chunk.css.map": "/plant-diease-detection/static/css/main.468af28d.chunk.css.map",
+    "static/js/2.2524f739.chunk.js.LICENSE.txt": "/plant-diease-detection/static/js/2.2524f739.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4fd384a.js",
+    "static/css/2.f87e9f44.chunk.css",
+    "static/js/2.2524f739.chunk.js",
+    "static/css/main.468af28d.chunk.css",
+    "static/js/main.d8124135.chunk.js"
+  ]
+}

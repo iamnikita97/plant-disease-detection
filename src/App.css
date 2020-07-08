@@ -1,0 +1,61 @@
+@media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+        animation: App-logo-spin infinite 20s linear;
+    }
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.bg-dark {
+    background-color: #1E1E1E !important;
+}
+
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+h1.header_text {
+    color: #fff;
+    position: relative;
+    left: 36px;
+}
+
+h1.heade_text {
+    color: white;
+    font-size: 21px;
+}
+
+.image-action-btn-container button {
+    margin: 5px;
+}
+
+table#table_disease_prediction {
+    width: 100%;
+}
+
+table#table_disease_prediction tr td {
+    text-align: left;
+}
+
+table#table_disease_prediction tr td:first-child {
+    width: 40%;
+}
+
+table#table_disease_prediction tr td:first-child {
+    width: 40%;
+}
+
+table#table_disease_prediction tr td:nth-child(2) {
+    width: 60%;
+}
